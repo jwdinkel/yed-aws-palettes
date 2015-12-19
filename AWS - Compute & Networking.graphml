@@ -114,12 +114,13 @@
     <ns0:node id="n6">
       <ns0:data key="d3">483ae5ae-ee58-4c6c-98cd-1924af63c2b0</ns0:data>
       <ns0:data key="d4">Amazon EC2--</ns0:data>
+      <ns0:data key="d5"><![CDATA[https://aws.amazon.com/documentation/ec2/]]></ns0:data>
       <ns0:data key="d7">
         <ns2:SVGNode>
           <ns2:Geometry height="72.0" width="59.63200378417969" x="552.2161827087402" y="43.60822677612305" />
           <ns2:Fill color="#CCCCFF" transparent="false" />
           <ns2:BorderStyle color="#000000" type="line" width="1.0" />
-          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="4.0" x="27.816001892089844" y="76.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="4.0" x="27.816001892089844" y="76.0">Amazon EC2</ns2:NodeLabel>
           <ns2:SVGNodeProperties usingVisualBounds="true" />
           <ns2:SVGModel svgBoundsPolicy="0">
             <ns2:SVGContent refid="7" />
